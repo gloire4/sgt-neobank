@@ -1,6 +1,8 @@
 # sgt_app
 
-Application Mobile de transfert d'argent
+Application Mobile de transfert d'argent entre la Banque SGT et les opérateurs téléphoniques Locaux du Tchad
+
+Ce projet est réalisé dans le cadre d'un projet de Hackathon à but éducatif
 
 ## Getting Started
 
